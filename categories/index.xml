@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hi Folks</title>
+    <link>http://marymemelee.github.io/categories/</link>
+    <description>Recent content in Categories on Hi Folks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© XJJ 2022</copyright>
+    <lastBuildDate>Sun, 18 Jul 2021 10:52:59 +0800</lastBuildDate><atom:link href="http://marymemelee.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KaTeX</title>
+      <link>http://marymemelee.github.io/categories/katex/</link>
+      <pubDate>Sun, 18 Jul 2021 10:52:59 +0800</pubDate>
+      
+      <guid>http://marymemelee.github.io/categories/katex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://marymemelee.github.io/categories/markdown/</link>
+      <pubDate>Sun, 18 Jul 2021 10:52:59 +0800</pubDate>
+      
+      <guid>http://marymemelee.github.io/categories/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>http://marymemelee.github.io/categories/mermaid/</link>
+      <pubDate>Sun, 18 Jul 2021 10:52:59 +0800</pubDate>
+      
+      <guid>http://marymemelee.github.io/categories/mermaid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

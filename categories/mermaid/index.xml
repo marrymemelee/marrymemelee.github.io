@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mermaid on Hi Folks</title>
+    <link>http://marymemelee.github.io/categories/mermaid/</link>
+    <description>Recent content in Mermaid on Hi Folks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© XJJ 2022</copyright>
+    <lastBuildDate>Sun, 18 Jul 2021 10:52:59 +0800</lastBuildDate><atom:link href="http://marymemelee.github.io/categories/mermaid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mermaid Graphs</title>
+      <link>http://marymemelee.github.io/mermaid-graphs/</link>
+      <pubDate>Sun, 18 Jul 2021 10:52:59 +0800</pubDate>
+      
+      <guid>http://marymemelee.github.io/mermaid-graphs/</guid>
+      <description>Here&amp;rsquo;s a simple mermaid flowchart.
+graph LR Start --&gt; Stop For more documentations on Mermaid, view mermaid.</description>
+    </item>
+    
+  </channel>
+</rss>
